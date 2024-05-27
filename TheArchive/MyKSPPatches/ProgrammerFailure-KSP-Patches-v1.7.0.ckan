@@ -28,7 +28,11 @@
     ],
     "recommends": [
         {
-            "name": "SnacksCryoEnginesCryoEnginesExtensionsDSEVPathfinder"
+            "name": "Snacks
+            "name": "CryoEngines"
+            "name": "CryoEnginesExtensions"
+            "name": "DSEV"
+            "name": "Pathfinder"
         }
     ],
     "install": [
