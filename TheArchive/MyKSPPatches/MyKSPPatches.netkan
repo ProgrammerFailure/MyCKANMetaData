@@ -5,9 +5,9 @@ abstract: Patches for KSP
 author:
   - ProgrammerFailure
 license: public-domain
-download: >-
-  https://github.com/ProgrammerFailure/My-KSP-patches/archive/refs/tags/v1.6.4.zip
-version: 1.6.4
+$kref: '#/ckan/github/ProgrammerFailure/My-KSP-patches'
+x_netkan_github:
+  use_source_archive: true
 resources:
   bugtracker: >-
     https://github.com/ProgrammerFailure/My-KSP-patches/blob/main/GameData/My-KSP-Patches/Issues
@@ -21,9 +21,9 @@ tags:
   - tech-tree
   - career
 install:
-  - file: My-KSP-patches-1.6.4/GameData/My-KSP-Patches
+  - find: My-KSP-Patches
     install_to: GameData
-  - file: My-KSP-patches-1.6.4/GameData/WildBlueIndustries
+  - find: WildBlueIndustries
     install_to: GameData
 ksp_version: any
 depends:
