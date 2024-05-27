@@ -5,7 +5,7 @@ resources:
   bugtracker: >-
     https://github.com/ProgrammerFailure/My-KSP-patches/blob/main/GameData/My-KSP-Patches/Issues
   license: >-
-    https://github.com/ProgrammerFailure/My-KSP-patches/blob/main/GameData/My-KSP-Patches/Information/LICENSE
+    https://github.com/ProgrammerFailure/MyCKANMetaData/blob/main/MyKSPPatches/LicenseForCKAN
   homepage: https://github.com/ProgrammerFailure/My-KSP-patches
   repository: https://github.com/ProgrammerFailure/My-KSP-patches
 tags:
