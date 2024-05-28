@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.27",
+    "identifier": "CargoAccelerators",
+    "name": "Cargo accelerators",
+    "abstract": "Parts to accelerate vessels",
+    "author": [
+        "allista"
+    ],
+    "version": "v0.3.0.1",
+    "license": "public-domain",
+    "resources": {
+        "homepage": "https://github.com/allista/CargoAccelerators",
+        "repository": "https://github.com/allista/CargoAccelerators",
+        "bugtracker": "https://github.com/allista/CargoAccelerators/Issues"
+    },
+    "tags": [
+        "parts"
+    ],
+    "install": [
+        {
+            "find": "CargoAccelerators",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/allista/CargoAccelerators/releases/download/v0.3.0.1/CargoAccelerators-v0.3.0.1.zip",
+    "download_size": 2186904,
+    "download_hash": {
+        "sha1": "FCC7FBFD1E5777DB7FCCD1E122140EF915565BA4",
+        "sha256": "EF659520FFF602581A0DACD18BEB407EE92909D181AA11D636788748FF48EE12"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 4422986,
+    "release_date": "2022-04-01T15:00:09Z",
+    "x_generated_by": "netkan"
+}
