@@ -1,0 +1,198 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "BaseConvenienceInstall",
+    "name": "BaseConvenienceInstall",
+    "abstract": "My most basic minimum mods. All conveniences etc.",
+    "author": "user",
+    "version": "2024.06.06.10.44.29",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "AllTweak"
+        },
+        {
+            "name": "AllYAll"
+        },
+        {
+            "name": "AtmosphereAutopilot"
+        },
+        {
+            "name": "AutoHibernate"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ContractsWindowPlus"
+        },
+        {
+            "name": "DockRotate"
+        },
+        {
+            "name": "DoubleTapBrakes"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "FilterExtensionsDefaultConfig"
+        },
+        {
+            "name": "FMRSContinued"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "HeapPadder"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "HyperEdit"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "KSP-PartVolume"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "KSPRescueContractFix"
+        },
+        {
+            "name": "KSTS"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "MechJebForAll"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "NavHudRenewed"
+        },
+        {
+            "name": "ParkingBrake"
+        },
+        {
+            "name": "PartCommanderCont"
+        },
+        {
+            "name": "PartInfo"
+        },
+        {
+            "name": "PartInfoInPAW"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "RoutineMissionManager"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "Science-Full-Transmit"
+        },
+        {
+            "name": "ScienceAlert"
+        },
+        {
+            "name": "ScienceRelay"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "SimpleLogistics"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "StationKeeping"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TrackingStationEvolved"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "TweakScaleRescaled"
+        },
+        {
+            "name": "TweakScaleRescaled-SafetyNet"
+        },
+        {
+            "name": "VesselMoverContinued"
+        },
+        {
+            "name": "WasdEditorCameraContinued"
+        },
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "xScienceContinued"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        }
+    ],
+    "release_date": "2024-06-06T10:44:29.0256921Z",
+    "kind": "metapackage"
+}

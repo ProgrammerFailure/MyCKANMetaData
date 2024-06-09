@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KSPIE-modpack",
+    "name": "KSPIE modpack",
+    "abstract": "KSPIE modpack",
+    "author": "ProgrammerFailure",
+    "version": "2024.06.06.11.43.58",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "ImprovedTreeEnginePlacement"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "InterstellarTechnologies"
+        },
+        {
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "TweakScaleRescaled"
+        }
+    ],
+    "release_date": "2024-06-06T11:43:58.2808753Z",
+    "kind": "metapackage"
+}
