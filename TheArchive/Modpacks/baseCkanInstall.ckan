@@ -1,9 +1,9 @@
 {
     "spec_version": "v1.18",
     "identifier": "BaseConvenienceInstall",
-    "name": "BaseConvenienceInstall",
+    "name": "Base Convenience Install",
     "abstract": "My most basic minimum mods. All conveniences etc.",
-    "author": "user",
+    "author": "ProgrammerFailure",
     "version": "2024.06.06.10.44.29",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
@@ -130,6 +130,9 @@
             "name": "PatchManager"
         },
         {
+            "name": "ProgrammerFailure-KSP-Patches"
+        },
+        {
             "name": "RoutineMissionManager"
         },
         {
@@ -176,6 +179,12 @@
         },
         {
             "name": "TweakScaleRescaled-SafetyNet"
+        },
+        {
+            "name": "TweakScaleRescaled-SafetyNet"
+        },
+        {
+            "name": "VABOrganizer"
         },
         {
             "name": "VesselMoverContinued"
