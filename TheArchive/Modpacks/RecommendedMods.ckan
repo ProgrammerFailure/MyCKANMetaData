@@ -1,17 +1,17 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.6",
     "identifier": "AddRecommendedFeatures",
     "name": "Add Recommended Features",
     "abstract": "Recommended mods for MEEE",
     "author": "ProgrammerFailure",
-    "version": "2024.06.06.11.34.45",
+    "version": "1",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
     "depends": [
         {
             "name": "BaseConvenienceInstall"
-        }
+        },
         {
             "name": "Blueshift"
         },
