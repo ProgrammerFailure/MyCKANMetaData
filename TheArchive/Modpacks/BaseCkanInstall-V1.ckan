@@ -4,7 +4,7 @@
     "name": "Base Convenience Install",
     "abstract": "My most basic minimum mods. All conveniences etc.",
     "author": "ProgrammerFailure",
-    "version": "2024.06.06.10.44.29",
+    "version": "1",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
