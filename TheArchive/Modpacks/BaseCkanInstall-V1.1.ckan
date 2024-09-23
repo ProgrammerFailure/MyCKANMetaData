@@ -1,0 +1,275 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "BaseCkanInstall",
+    "name": "Base Ckan Install - ProgrammerFailure",
+    "abstract": "A list of modules installed on the Clone 1 KSP instance",
+    "author": "ProgrammerFailure",
+    "version": "v1.1",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "open-source",
+    "depends": [
+        {
+            "name": "AllTweak",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AllYAll",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AtmosphereAutopilot",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AutoHibernate",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityCategoryKit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityPartsTitles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityResourcePack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractsWindowPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DockRotate",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DoubleTapBrakes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DynamicBatteryStorage",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EasyVesselSwitch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EditorExtensionsRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FilterExtensionsDefaultConfig",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FMRSContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HeapPadder",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HideEmptyTechNodes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HyperEdit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "JanitorsCloset",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAlarmClock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSP-AVC",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSP-PartVolume",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPCommunityFixes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPRescueContractFix",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSTS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJebForAll",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NavballDockAlignIndCE",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NavHudRenewed",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParkingBrake",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PartCommanderCont",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PartInfo",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PartInfoInPAW",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PatchManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProgrammerFailure-KSP-Patches",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RoutineMissionManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SCANsat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ScienceAlert",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ScienceRelay",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ShipManifest",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SimpleLogistics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StageRecovery",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationKeeping",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ThrottleControlledAvionics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Toolbar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ToolbarController",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TrackingStationEvolved",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Trajectories",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled-Redist",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled-SafetyNet",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer-Jade",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer-SheepDog",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VesselMoverContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WasdEditorCameraContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaypointManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "xScienceContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ZeroMiniAVC",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2024-09-23T03:01:43.5001184Z",
+    "kind": "metapackage"
+}
