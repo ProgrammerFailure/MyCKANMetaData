@@ -1,8 +1,8 @@
 {
     "spec_version": "v1.2",
     "identifier": "USI-Wolf",
-    "name": "MKS",
-    "abstract": "MKS/OKS Colonization Systems",
+    "name": "USI WOLF",
+    "abstract": "MKS WOLF system",
     "author": "tjdeckard",
     "version": "v112.0.1",
     "ksp_version_min": "1.8",
@@ -21,8 +21,20 @@
     ],
     "install": [
         {
-            "file": "GameData/UmbraSpaceIndustries/WOLF",
-            "install_to": "GameData/UmbraSpaceIndustries"
+            "file": "GameData/UmbraSpaceIndustries/WOLF/Patches",
+            "install_to": "GameData/UmbraSpaceIndustries/WOLF"
+        },
+        {
+            "file": "GameData/UmbraSpaceIndustries/WOLF/USI_WOLF.dll",
+            "install_to": "GameData/UmbraSpaceIndustries/WOLF"
+        },
+        {
+            "file": "GameData/UmbraSpaceIndustries/WOLF/WOLFUI.dll",
+            "install_to": "GameData/UmbraSpaceIndustries/WOLF"
+        },
+        {
+            "file": "GameData/UmbraSpaceIndustries/WOLF/WOLF.cfg",
+            "install_to": "GameData/UmbraSpaceIndustries/WOLF"
         }
     ],
     "download": "https://github.com/UmbraSpaceIndustries/MKS/releases/download/v112.0.1/MKS_112.0.1.zip",
